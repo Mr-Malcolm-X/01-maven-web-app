@@ -4,5 +4,7 @@
 <h2>Learn Here.. Lead Anywhere..!!</h2>
 
 <a href="https://ashokitech.com/online-training-schedules">Click here to see training schedules</a>
+<a href="https://www.whatsapp.com/">Click here to contact us on whatsapp</a>
+  
 </body>
 </html>
