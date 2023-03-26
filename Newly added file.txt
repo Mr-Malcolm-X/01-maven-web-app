@@ -1,1 +1,4 @@
-New lines are added from git client:
+New lines are added to this file from git hub repo.
+
+Conflicts are resolved successfully!!
+
