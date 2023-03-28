@@ -2,7 +2,7 @@
 <body>
 <h1><font color='red'>Welcome to Ashok IT Software Training Institute..!!<font></h1>
 <h2>Learn Here.. Lead Anywhere..!!</h2>
-<h3>This is the second change, lets wait for the results</h3>
+<h3>This is from the CI/CD Pipeline created, lets wait for the results</h3>
 <h4>In Telangana State, India</h4>
 
 <a href="https://ashokitech.com/online-training-schedules">Click here to see training schedules<a> <br/>
