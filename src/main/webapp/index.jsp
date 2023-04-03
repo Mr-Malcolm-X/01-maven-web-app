@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='red'>Welcome to Ashok IT Software Training Institute..!!<font></h1>
+<h1><font color='red'>Welcome to Ashok IT Software Training Institute..The Best Institute I've ever seen!!<font></h1>
 <h2>Learn Here.. Lead Anywhere..!!</h2>
 <h3>This is from the CI/CD Pipeline created, lets wait for the results</h3>
 <h4>In Telangana State, India</h4>
